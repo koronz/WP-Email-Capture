@@ -5,8 +5,8 @@ msgstr ""
 "POT-Creation-Date: 2014-07-07 20:18:59+00:00\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Lebuso | Hamdi Cetinbag <hamdi.cetinbag@lebuso.de>\n"
-"Language-Team: Ov3rfly <https://profiles.wordpress.org/Ov3rfly>\n"
-"Language: de_DE\n"
+"Language-Team: LeBuSo | Hamdi Cetinbag <hamdi.cetinbag@lebuso.de>\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,27 +18,27 @@ msgstr ""
 
 #: inc/admin-sidebar.php:14
 msgid "Need Help?"
-msgstr "Brauchen Sie Hilfe?"
+msgstr "Yardıma ihtiyacınız mı var?"
 
 #: inc/admin-sidebar.php:16
 msgid "If you are having problems with this plugin, please read the"
-msgstr "Wenn Sie Probleme mit diesem Plugin haben, lesen Sie bitte die"
+msgstr "Bu eklenti ile sorun yaşıyorsanız, lütfen okuyun"
 
 #: inc/admin-sidebar.php:16
 msgid "Frequently Asked Questions"
-msgstr "Häufig gestellte Fragen (FAQ)"
+msgstr "Sık Sorulan Sorular"
 
 #: inc/admin-sidebar.php:16
 msgid "or alternatively"
-msgstr "oder gegebenenfalls"
+msgstr "yada alternatif olarak"
 
 #: inc/admin-sidebar.php:16
 msgid "submit a support request here"
-msgstr "Supportanfrage senden"
+msgstr "destek talebi gönder"
 
 #: inc/admin-sidebar.php:19
 msgid "Recommended Services"
-msgstr "Empfehlungen"
+msgstr "Önerilen Servisler"
 
 #: inc/admin-sidebar.php:21
 msgid "We recommend the following services for sending out emails:-"
@@ -46,15 +46,15 @@ msgstr "Wir empfehlen die folgenden Dienstleister, um E-Mails zu versenden:"
 
 #: inc/admin-sidebar.php:30
 msgid "Global List Management"
-msgstr "Globale Liste Verwalten"
+msgstr "Küresel Liste Yönetimi"
 
 #: inc/admin-sidebar.php:32
 msgid "This page allows you to create lists, either"
-msgstr ""
+msgstr "Bu sayfa ya listeleri oluşturmanıza olanak sağlar"
 
 #: inc/admin-sidebar.php:32
 msgid "external lists"
-msgstr "externe Listen"
+msgstr "harici listeler"
 
 #: inc/admin-sidebar.php:32
 msgid ""
@@ -64,15 +64,15 @@ msgstr ""
 
 #: inc/admin-sidebar.php:32
 msgid "WP Email Capture List"
-msgstr "WP E-Mail-Capture-Liste"
+msgstr "WP Email Capture Listesi"
 
 #: inc/admin-sidebar.php:32
 msgid "You can create as many different lists as you wish"
-msgstr "Sie können so viele verschiedene Listen erstellen, wie Sie wollen"
+msgstr "Dilediğiniz kadar farklı liste oluşturabilirsiniz"
 
 #: inc/admin-sidebar.php:36
 msgid "Add/Edit WP Email Capture List"
-msgstr "Hinzufügen / Bearbeiten von WP E-Mail-Capture-Liste"
+msgstr "WP Email Capture Listesi Ekle/Düzenle"
 
 #: inc/admin-sidebar.php:38
 msgid ""
@@ -82,7 +82,7 @@ msgstr ""
 
 #: inc/admin-sidebar.php:40
 msgid "Make Changes To Your Lists"
-msgstr "Änderungen an Ihre Listen"
+msgstr "Listelerinizde Değişiklik Yapın"
 
 #: inc/admin-sidebar.php:40
 msgid "such as the name and the pages redirected to on form completion"
@@ -90,7 +90,7 @@ msgstr ""
 
 #: inc/admin-sidebar.php:41
 msgid "Email Options"
-msgstr "Email-Optionen"
+msgstr "E-posta Seçenekleri"
 
 #: inc/admin-sidebar.php:41
 msgid ""
@@ -100,7 +100,7 @@ msgstr ""
 
 #: inc/admin-sidebar.php:42
 msgid "Error Options"
-msgstr "Fehler-Optionen"
+msgstr "Hata Seçenekleri"
 
 #: inc/admin-sidebar.php:42
 msgid ""
@@ -109,7 +109,7 @@ msgstr ""
 
 #: inc/admin-sidebar.php:43
 msgid "Styling Options"
-msgstr ""
+msgstr "Biçimlendirme Ayarları"
 
 #: inc/admin-sidebar.php:43
 msgid ""
@@ -119,19 +119,19 @@ msgstr ""
 
 #: inc/admin-sidebar.php:45
 msgid "You can also on this page do the following"
-msgstr ""
+msgstr "Ayrıca bu sayfada aşağıdakileri yapabilirsiniz"
 
 #: inc/admin-sidebar.php:47
 msgid "Manage List Subscribers"
-msgstr "Abonnenten verwalten"
+msgstr "Abonelerinizi Yönetin"
 
 #: inc/admin-sidebar.php:48
 msgid "Delete Temporary Emails"
-msgstr "Temporäre E-Mails Löschen"
+msgstr "Geçici E-postaları Sil"
 
 #: inc/admin-sidebar.php:49
 msgid "Empty the entire list"
-msgstr "Leeren Sie die gesamte Liste"
+msgstr "Tüm listeyi boşalt"
 
 #: inc/admin-sidebar.php:59
 msgid "Get WP Email Capture Premium"
@@ -146,7 +146,7 @@ msgstr ""
 
 #: inc/admin-sidebar.php:66
 msgid "Add/Edit External List"
-msgstr "Externe Liste Hinzufügen / Bearbeiten"
+msgstr "Harici Liste Ekle/Düzenle"
 
 #: inc/admin-sidebar.php:68
 msgid ""
@@ -159,67 +159,65 @@ msgstr ""
 
 #: inc/admin-sidebar.php:72
 msgid "Donations"
-msgstr "Spenden"
+msgstr "Bağışlar"
 
 #: inc/admin-sidebar.php:73
 msgid ""
 "If you like this plugin, please consider a small donation to help with "
 "future versions and plugins."
 msgstr ""
-"Wenn Sie dieses Plugin gut finden, erwägen Sie bitte eine kleine Spende zur "
-"Unterstützung der zukünftigen Versionen & Plugins."
+"Eğer bu eklentiyi beğendiyseniz, gelecekteki sürümleri ve eklentileri "
+"geliştirebilmemize yardımcı olmak için küçük bir bağış düşünün lütfen."
 
 #: inc/admin-sidebar.php:83
 msgid "Latest News"
-msgstr "Neuste Informationen"
+msgstr "Son Yenilikler"
 
 #: inc/admin-sidebar.php:84
 msgid "The latest news and tutorials from WP Email Capture"
-msgstr "Die neusten Informationen und Anleitungen zu WP Email Capture"
+msgstr "WP Email Capture Son haberler ve öğreticiler"
 
 #: inc/admin-sidebar.php:97
 msgid "Support Us!"
-msgstr "Unterstützen Sie uns!"
+msgstr "Bizi Destekleyin!"
 
 #: inc/admin-sidebar.php:98
 msgid ""
 "We would like you if you would not mind, doing one of the following if you "
 "are a fan of WP Email Capture"
 msgstr ""
-"Wir würden uns freuen, wenn Sie eines der folgenden Dinge tun würden, wenn "
-"Ihnen WP Email Capture gefällt"
 
 #: inc/admin-sidebar.php:100
 msgid "Rate the plugin 5* on WordPress.org"
-msgstr "Bewerte das Plugin mit 5* auf WordPress.org"
+msgstr "Eklentiyi WordPress.org üzerinde  5 * ile değerlendir"
 
 #: inc/admin-sidebar.php:101
 msgid "Follow @WPEmailCapture on Twitter"
-msgstr "Folge @WPEmailCapture auf Twitter"
+msgstr "Twitter'da @WPEmailCapture takip et"
 
 #: inc/admin-sidebar.php:102
 msgid "Like us on Facebook"
-msgstr "Empfehle uns auf Facebook"
+msgstr "Facebook'ta Beğen"
 
 #: inc/admin-sidebar.php:106
 msgid "Become An Affiliate!"
-msgstr "Partnerprogramm!"
+msgstr ""
 
 #: inc/admin-sidebar.php:107
 msgid "Earn upto"
-msgstr "Verdiene bis zu"
+msgstr ""
 
 #: inc/admin-sidebar.php:107
 msgid "per sale of WP Email Capture"
-msgstr "pro verkauftem WP Email Capture"
+msgstr ""
 
 #: inc/admin-sidebar.php:107
 msgid "Join our affilite programme today"
-msgstr "Nimm an unserem Partnerprogramm teil"
+msgstr ""
 
 #: inc/admin-sidebar.php:110 inc/options.php:5 inc/options.php:18
 msgid "WP Email Capture Options"
-msgstr "WP Email Capture Einstellungen"
+msgstr "WP Email Capture Seçenekleri"
 
 #: inc/admin-sidebar.php:111
 msgid ""
@@ -229,73 +227,69 @@ msgstr ""
 
 #: inc/dashboard.php:9
 msgid "Last Three Members To Join"
-msgstr "Die letzten drei Anmeldungen"
+msgstr "Son Üç Üye Katılımı"
 
 #: inc/dashboard.php:13 inc/options.php:176
 msgid "Export"
-msgstr "Export"
+msgstr "Dışa aktar"
 
 #: inc/dashboard.php:15
 msgid ""
 "Use the button below to export your list as a CSV to use in software such as"
 msgstr ""
-"Benutzen Sie den Button unterhalb, um die Liste als CSV-Datei zu exportieren "
-"zur Verwendung in Programmen wie etwa"
 
 #: inc/dashboard.php:17 inc/options.php:184
 msgid "Export List"
-msgstr "Liste exportieren"
+msgstr "Dışa Aktar"
 
 #: inc/dashboard.php:22 inc/options.php:190
 msgid "Temporary e-mails"
-msgstr "Temporäre E-Mail-Adressen"
+msgstr "Geçici E-postalar"
 
 #: inc/dashboard.php:24 inc/options.php:194
 msgid "There are"
-msgstr "Es sind"
+msgstr ""
 
 #: inc/dashboard.php:24 inc/options.php:194
 msgid ""
 "e-mail addresses that have been unconfirmed. Delete them to save space below."
-msgstr ""
-"E-Mail-Adresse(n) vorhanden, die bislang unbestätigt sind. Um Platz zu "
-"sparen, können diese gelöscht werden."
+msgstr "Doğrulanmamış E-posta adresleri. Yer kazanmak için silebilirsiniz."
 
 #: inc/dashboard.php:27 inc/options.php:198
 msgid "Delete Unconfirmed e-mail Addresses"
-msgstr "Unbestätigte E-Mail-Adressen löschen"
+msgstr ""
 
 #: inc/dashboard.php:40
 msgid "WP Email Capture - At A Glance"
-msgstr "WP Email Capture - Auf einen Blick"
+msgstr "WP Email Capture - Bir Bakışta"
 
 #: inc/display.php:18
 msgid "Error:"
-msgstr "Fehler:"
+msgstr "Hata:"
 
 #: inc/display.php:22 inc/display.php:65
 msgid "Name:"
-msgstr "Name:"
+msgstr "Ad:"
 
 #: inc/display.php:24 inc/display.php:67
 msgid "Email:"
-msgstr "E-Mail:"
+msgstr "Eposta:"
 
 #: inc/display.php:28 inc/display.php:71
 msgid "Submit"
-msgstr "Anmelden"
+msgstr "Gönder "
 
 #: inc/display.php:36 inc/display.php:75
 msgid "Powered by"
-msgstr "Unterstützt von"
+msgstr "Destekleyen "
 
 #: inc/exportcsv.php:19 inc/tabledata.php:37
 msgid "Name"
-msgstr "Name"
+msgstr "Ad:"
 
 #: inc/exportcsv.php:19 inc/tabledata.php:37
 msgid "Email"
-msgstr "E-Mail"
+msgstr "Eposta"
 
 #: inc/functions.php:53
 msgid ""
@@ -306,75 +300,68 @@ msgstr ""
 
 #: inc/options.php:22
 msgid "Recommendations"
-msgstr "Empfehlungen"
+msgstr "Öneriler"
 
 #: inc/options.php:24
 msgid "We recommend"
-msgstr "Wir empfehlen"
+msgstr "Tavsiyemiz"
 
 #: inc/options.php:24
 msgid "to run your email campaigns. We have tested this plugin with it."
-msgstr ""
-"für Ihre E-Mail-Kampagnen. Dieses Plugin wurde erfolgreich damit getestet."
+msgstr "E-posta kampanyalarında kullanmanız için, eklenti test edildi."
 
 #: inc/options.php:49
 msgid "Options"
-msgstr "Einstellungen"
+msgstr "Seçenekler"
 
 #: inc/options.php:69
 msgid ""
 "Page to redirect to on sign up (full web address ie: http://www.domain.com/"
 "this-page/)"
 msgstr ""
-"Seite zur Weiterleitung bei der Anmeldung (vollständige Adresse: http://www."
-"domain.com/this-page/)"
 
 #: inc/options.php:77
 msgid ""
 "Page to redirect to on confirmation of email address  (full web address ie: "
 "http://www.domain.com/this-other-page/)"
 msgstr ""
-"Seite zur Weiterleitung zur Bestätigung der E-Mail-Adresse (vollständige "
-"Adresse: http://www.domain.com/this-other-page/)"
 
 #: inc/options.php:85
 msgid "From Which Email Address"
-msgstr "Absender-E-Mail-Adresse"
+msgstr "Gönderen E-posta Adresi"
 
 #: inc/options.php:93
 msgid "From Which Name"
-msgstr "Absender-Name"
+msgstr "Gönderen Adı"
 
 #: inc/options.php:101
 msgid "Subject of Email"
-msgstr "Betreff der E-Mail"
+msgstr "E-posta Konusu"
 
 #: inc/options.php:109
 msgid "Body of Email"
-msgstr "Text der E-Mail"
+msgstr "E-posta içeriği"
 
 #: inc/options.php:110
 msgid ""
 "(use %NAME% to use the form's &quot;Name&quot; field in their welcome email)"
 msgstr ""
-"(Benutzen Sie %NAME%, um den Namen aus der Anmeldung in der "
-"Willkommensnachricht zu nutzen)"
 
 #: inc/options.php:118
 msgid "Link to us (optional, but appreciated)"
-msgstr "Verlinken Sie uns (optional, aber gerne gesehen)"
+msgstr "Bize bağlantı (isteğe bağlı, ama takdir edilir)"
 
 #: inc/options.php:132
 msgid "Make The \"Name\" field a required field?"
-msgstr "Soll das \"Name\" Feld ein Pflichtfeld sein?"
+msgstr "\"Ad\" alanı zorunlu olsun mu ?"
 
 #: inc/options.php:146
 msgid "Delimeter (leave blank for a comma)"
-msgstr "Trennzeichen (leer lassen für ein Komma)"
+msgstr ""
 
 #: inc/options.php:164
 msgid "Save Changes"
-msgstr "Änderungen speichern"
+msgstr "Degisiklikleri Kaydet"
 
 #: inc/options.php:180
 msgid ""
@@ -383,14 +370,10 @@ msgid ""
 "Marketing\">Aweber</a> or <a href=\"http://wpemailcapture.com/recommends/"
 "mailchimp\">Mailchimp</a>"
 msgstr ""
-"Benutzen Sie den Button unterhalb, um die Liste als CSV-Datei zu exportieren "
-"zur Verwendung in Programmen wie etwa <a href=\"http://www.gospelrhys.co.uk/"
-"go/aweber.php\" title=\"Email Marketing\">Aweber</a> oder <a href=\"http://"
-"www.gospelrhys.co.uk/go/mailchimp.php\">Mailchimp</a>."
 
 #: inc/options.php:202
 msgid "Delete Current List"
-msgstr "Aktuelle Liste löschen"
+msgstr "Güncel Listeyi Sil"
 
 #: inc/options.php:206
 msgid ""
@@ -398,86 +381,85 @@ msgid ""
 "strong> this will delete all confirmed emails, so make sure you have a "
 "backup."
 msgstr ""
-"Gesamte Liste löschen? Klicken Sie auf den Link unten. ACHTUNG: Es werden "
-"alle bestätigten E-Mails löschen. Bitte zur Sicherheit eine Kopie machen."
+"Tüm listeyi silmek istiyor musunuz? Aşağıdaki bağlantıya tıklayın. "
+"<strong>UYARI</strong> Bu teyit tüm e-postaları siler, bu yüzden bir "
+"yedekleme olduğundan emin."
 
 #: inc/options.php:210
 msgid "Delete Confirmed e-mail Addresses"
-msgstr "Bestätigte E-Mail-Adressen löschen"
+msgstr "Teyit edilen E-posta Adreslerini sil."
 
 #: inc/pagedresults.php:141
 msgid "Prev"
-msgstr "Zurück"
+msgstr "Önceki"
 
 #: inc/pagedresults.php:169
 msgid "Next"
-msgstr "Weiter"
+msgstr "Sonraki"
 
 #: inc/process.php:57
 msgid "Please Provide A Name"
-msgstr "Bitte einen Namen angeben"
+msgstr "Bir Ad sağlayın lütfen"
 
 #: inc/process.php:70
 msgid "Not a valid email"
-msgstr "Keine gültige E-Mail-Adresse"
+msgstr "Geçersiz E-posta"
 
 #: inc/process.php:112
 msgid "User already present"
-msgstr "Benutzer bereits gespeichert"
+msgstr "Bu kullanıcı zaten mevcut"
 
 #: inc/process.php:155
 msgid "Sign Up For Our Newsletter"
-msgstr "Anmeldung zu unserem Newsletter"
+msgstr "Bültenimize Kayıt Olun"
 
 #: inc/process.php:181
 msgid ""
 "Thank you for signing up for our newsletter, please click the link below to "
 "confirm your subscription"
 msgstr ""
-"Danke für Ihre Anmeldung zu unserem Newsletter, bitte klicken Sie zur "
-"Bestätigung der Anmeldung auf den folgenden Link"
+"Haber bültenimizekayıt olduğunuz için teşekkür ederiz, aboneliğinizi "
+"onaylamak için aşağıdaki linke tıklayınız"
 
 #: inc/process.php:186
 msgid ""
 "This is an automated message that is generated because somebody with the IP "
 "address of"
-msgstr "Dies ist eine automatische Nachricht, weil jemand mit der IP-Adresse"
+msgstr "Bu oluşturulan otomatik bir mesaj çünkü IP adresi ile birileri"
 
 #: inc/process.php:186
 msgid "(possibly you) on"
-msgstr "(vielleicht sie) am"
+msgstr ""
 
 #: inc/process.php:186
 msgid "filled out the form on the following page"
-msgstr "das Formular auf der folgenden Seite ausgefüllt hat:"
+msgstr "formun doldurulduğu sayfa "
 
 #: inc/process.php:187
 msgid ""
 "If you are sure this isn't you, please ignore this message, you will not be "
 "sent another message."
 msgstr ""
-"Wenn Sie sich sicher sind, dass Sie dies nicht waren, ignorieren Sie bitte "
-"diese Meldung. Sie werden keine weiteren Meldungen erhalten."
 
 #: inc/process.php:204
 msgid "Not found your email in our database"
-msgstr "Ihre E-Mail-Adresse konnte in unserer Datenbank nicht gefunden werden"
+msgstr "E-postanız veritabanımız da bulunamadı"
 
 #: inc/process.php:226
 msgid "Email unable to be sent"
-msgstr "E-Mail konnte nicht verschickt werden"
+msgstr "E-posta gönderilemedi"
 
 #: inc/process.php:285
 msgid "Wrong confirmation code"
-msgstr "Falscher Bestätigungscode"
+msgstr "Yanlış onay kodu"
 
 #: inc/tabledata.php:27
 msgid "Members"
-msgstr "Anmeldungen"
+msgstr "Üyeler"
 
 #: inc/tabledata.php:65
 msgid "Delete "
-msgstr "Entferne "
+msgstr "Sil"
 
 #. Plugin Name of the plugin/theme
 #: inc/widget.php:6
@@ -486,23 +468,23 @@ msgstr "WP Email Capture"
 
 #: inc/widget.php:6
 msgid "Widget for WP Email Capture"
-msgstr "Widget für WP Email Capture"
+msgstr "WP Email Capture Bileşeni"
 
 #: inc/widget.php:21 inc/widget.php:48
 msgid "Subscribe!"
-msgstr "Abonnieren!"
+msgstr "Abone Ol!"
 
 #: inc/widget.php:22 inc/widget.php:48
 msgid "Subscribe to my blog for updates"
-msgstr "Abonnieren Sie meinen Blog für aktuelle Informationen"
+msgstr "Güncellemeler için bloguma abone"
 
 #: inc/widget.php:55
 msgid "Widget title:"
-msgstr "Widget Überschrift:"
+msgstr "Bileşen Başlığı:"
 
 #: inc/widget.php:56
 msgid "Widget text:"
-msgstr "Widget Text:"
+msgstr "Bileşen Metni:"
 
 #. Plugin URI of the plugin/theme
 msgid "http://www.wpemailcapture.com"
@@ -515,10 +497,6 @@ msgid ""
 "\">Aweber</a> or <a href=\"http://wpemailcapture.com/recommends/mailchimp/"
 "\">Mailchimp</a>"
 msgstr ""
-"Sammelt E-Mail-Adressen zur Verwendung in Programmen wie etwa <a href="
-"\"http://www.gospelrhys.co.uk/go/aweber.php\" title=\"Email Marketing"
-"\">Aweber</a> oder <a href=\"http://www.gospelrhys.co.uk/go/mailchimp.php"
-"\">Mailchimp</a>."
 
 #. Author of the plugin/theme
 msgid "Rhys Wynne"
